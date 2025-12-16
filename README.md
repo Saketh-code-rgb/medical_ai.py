@@ -12,7 +12,7 @@
 This project leverages **Ensemble Learning (Gradient Boosting)** to predict chronic disease risk by analyzing biomarkers like glucose, BMI, and age. It serves as a decision-support tool for early clinical intervention.
 
 ## 🚀 Live Demo
-🔗 **[Click here to try the Chronic Disease Predictor](YOUR_STREAMLIT_URL_HERE)**
+🔗 **[Click here to try the Chronic Disease Predictor](https://medicalaipy-apaclmnlxjy5wgpbaomdec.streamlit.app/)**
 
 ---
 
