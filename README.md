@@ -4,7 +4,7 @@
 ---
 
 ## 📝 Project Overview
-[cite_start]This project leverages **Ensemble Learning (Gradient Boosting)** to predict the likelihood of chronic disease by analyzing critical clinical biomarkers such as glucose levels, BMI, and blood pressure[cite: 122]. [cite_start]The primary objective is to provide actionable, early-stage diagnostic support for healthcare providers to improve patient outcomes[cite: 120].
+This project leverages **Ensemble Learning (Gradient Boosting)** to predict the likelihood of chronic disease by analyzing critical clinical biomarkers such as glucose levels, BMI, and blood pressure[cite: 122]. [cite_start]The primary objective is to provide actionable, early-stage diagnostic support for healthcare providers to improve patient outcomes[cite: 120].
 
 
 ---
@@ -13,10 +13,10 @@
 
 | **Component** | **Technologies Used** |
 | :--- | :--- |
-| **Core Programming** | [cite_start]![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) (Data processing and modeling) [cite: 121] |
-| **Machine Learning** | [cite_start]![ScikitLearn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white) (Gradient Boosting implementation) [cite: 121] |
-| **Data Handling** | [cite_start]![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/Numpy-013243?style=flat&logo=numpy&logoColor=white) (Normalization and wrangling) [cite: 121, 122] |
-| **Visualization** | [cite_start]![PowerBI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black) (Interactive clinical dashboards) [cite: 123] |
+| **Core Programming** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) (Data processing and modeling) [cite: 121] |
+| **Machine Learning** | ![ScikitLearn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white) (Gradient Boosting implementation) [cite: 121] |
+| **Data Handling** | ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/Numpy-013243?style=flat&logo=numpy&logoColor=white) (Normalization and wrangling) [cite: 121, 122] |
+| **Visualization** | ![PowerBI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black) (Interactive clinical dashboards) [cite: 123] |
 
 ---
 
@@ -29,9 +29,9 @@
 ---
 
 ## 🚀 Key Project Features
-* [cite_start]**Advanced Feature Engineering**: Implemented custom scaling and normalization for diverse patient datasets[cite: 122].
+* **Advanced Feature Engineering**: Implemented custom scaling and normalization for diverse patient datasets[cite: 122].
 * **Real-time Prediction**: Built a pipeline capable of generating instant risk scores from new clinical input.
-* [cite_start]**Visual Insights**: Designed interactive dashboards to track health trends and visualize risk factors[cite: 123].
+* **Visual Insights**: Designed interactive dashboards to track health trends and visualize risk factors[cite: 123].
 
 ---
 
