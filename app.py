@@ -1,6 +1,6 @@
 import streamlit as st
 import pandas as pd
-import job pickle # Assuming you save your model later
+import joblib # Assuming you save your model later
 
 st.title("🏥 Chronic Disease Risk Predictor")
 st.write("Enter patient data to assess risk levels.")
