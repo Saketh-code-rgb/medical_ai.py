@@ -1,10 +1,10 @@
 # 🏥 AI-Powered Chronic Disease Risk Assessment
-### *Harnessing Predictive Analytics for Early Diagnostic Intelligence*
+### *Predictive Analytics & Diagnostic Intelligence*
 
 ---
 
 ## 📝 Project Overview
-[cite_start]This project leverages **Ensemble Learning (Gradient Boosting)** to predict the likelihood of chronic disease by analyzing critical clinical biomarkers such as glucose levels, BMI, and blood pressure[cite: 122]. [cite_start]The primary objective is to provide actionable, early-stage diagnostic support for healthcare providers to improve patient outcomes.
+[cite_start]This project leverages **Ensemble Learning (Gradient Boosting)** to predict the likelihood of chronic disease by analyzing critical clinical biomarkers such as glucose levels, BMI, and blood pressure[cite: 122]. [cite_start]The primary objective is to provide actionable, early-stage diagnostic support for healthcare providers to improve patient outcomes[cite: 120].
 
 
 ---
@@ -20,18 +20,18 @@
 
 ---
 
-## 🚀 Key Performance Metrics
+## 📊 Performance Metrics
 * **Model Accuracy**: **94%+** verified diagnostic precision.
-* **Top Risk Indicator**: **Glucose levels** identified as the most significant factor influencing risk classification.
-* **Clinical Optimization**: Model tuned specifically for **Recall** to minimize dangerous false negatives in medical screenings.
+* **Primary Risk Factor**: **Glucose levels** identified as the leading indicator for risk classification.
+* **Target Optimization**: Model tuned for **Recall** to minimize dangerous false negatives in medical screening.
 
 
 ---
 
-## 📂 Project Structure
-* `main.py`: End-to-end pipeline for synthetic data generation and model training.
-* `app.py`: Interactive **Streamlit** interface for real-time risk assessment.
-* `requirements.txt`: List of necessary libraries for seamless deployment.
+## 🚀 Key Project Features
+* [cite_start]**Advanced Feature Engineering**: Implemented custom scaling and normalization for diverse patient datasets[cite: 122].
+* **Real-time Prediction**: Built a pipeline capable of generating instant risk scores from new clinical input.
+* [cite_start]**Visual Insights**: Designed interactive dashboards to track health trends and visualize risk factors[cite: 123].
 
 ---
 
